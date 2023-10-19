@@ -12,10 +12,10 @@
 
 ## Description
 
-**Voidscape** is a platform dedicated to promoting mental well-being and providing a range of activities and resources to enhance your mental freshness. Whether you're seeking relaxation, inspiration, or a boost of motivation, this project has you covered. The platform offers various features, including games, a blog section, VR meditation experiences, and access to motivational content and consultants.
+**Voidscape** is a platform dedicated to promoting mental well-being and providing a range of activities and resources to enhance your mental freshness. Whether you're seeking relaxation, inspiration, or a boost of motivation,or a  therapist, this project has you covered. The platform offers various features, including test,chatbot therapist,games, a blog section, VR meditation experiences, and access to motivational content and consultants.
 
 
-MindfulnessHub
+**Voidscape**
 Table of Contents
 Description
 Features
